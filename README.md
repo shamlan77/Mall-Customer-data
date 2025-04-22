@@ -6,7 +6,8 @@ Fixed inconsistent text formatting
 Converted date columns to datetime
 Renamed columns for clarity
 
-Task 2 
+Task 2 - Superstore
+
 Chart | Purpose
 Line Chart – Profit by Order Date | Shows overall profit trend over time
 Bar Chart – Sales by Category | Highlights top-selling product categories
